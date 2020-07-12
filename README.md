@@ -4,7 +4,7 @@
 
 * Seu computador dever ter preferencialmente O.S Linux ou O.S Windows.
 
-* Você deve digitar um valor que seja par.
+* Você deve digitar um valor de saque que seja par.
 
 * Caso o valor digitado seja impar você receberá uma mensagem de erro pedindo para digitar um valor válido. Foi criado um metodo para isso: "validateValue();".
 
