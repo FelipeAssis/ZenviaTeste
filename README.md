@@ -12,8 +12,8 @@
 
 * Depois, o código perguntará se você gostaria de sacar mais valores, caso sim, pressione OK. 
 
-## Testes
+## Testes:
 
-* Nesse projeto foi realizado um teste com o framework JUnit, onde é executado o método assertEquals, que faz a comparação do valor que ele espera receber e o valor que ele está recebendo.
+* Nesse projeto foi realizado um teste com o framework JUnit, onde é executado o método assertEquals, que faz a comparação do valor que ele espera receber e o valor que ele está recebendo, o teste só contém o cenário válido. 
 
 
